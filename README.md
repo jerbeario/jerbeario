@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jerbeario 
-- 👀 I’m interested in machine learning, computational physics, various programming tasks and DIY electronics 
-- 🌱 I’m currently learning python, matlab, java ...
-- 📫 How to reach me j.palmerio@student.maastrichtuniversity.nl
+- 👀 I’m interested in machine learning, computational physics, data science various programming tasks and DIY electronics 
+- 🌱 I’m currently learning python, matlab, java, R, C++ ...
+- 📫 How to reach me jeremy.palmerio@student.uva.nl
 
 <!---
 jerbeario/jerbeario is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
