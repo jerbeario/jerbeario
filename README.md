@@ -1,28 +1,27 @@
 # Welcome to my GitHub
 
-I’m **Jeremy Palmerio**, I studied theortical physics at the **Mastricht Science Programme**, and data science at the **University of Amsterdam**. 
+I'm **Jeremy Palmerio**, a research software engineer with a background in theoretical physics from the **Maastricht Science Programme** and an MSc in Data Science from the **University of Amsterdam**.
 
-I’m interested in using data science for scientific and environmental problems, especially in areas like climate risk, geospatial modelling, bioacoustics, and wildlife monitoring.
+I enjoy building software and data-processing tools for scientific problems. My work has taken me across environmental modelling, particle physics, astronomy, bioacoustics, and wildlife research, and I'm particularly interested in scientific computing and energy applications.
 
 ## What I work on
 
-- Deep learning for environmental and geospatial modelling
-- Computer vision for wildlife research
-- Bioacoustics and passive acoustic monitoring research
+- Scientific software and data-processing pipelines
+- Machine learning tools for research
+- Computer vision and bioacoustics
+- Large-scale scientific data and HPC workflows
+- Environmental, physics, and energy applications
 
 ## Tools I use
 
-Python, R, PyTorch, TensorFlow, scikit-learn, pandas, NumPy, GeoPandas, rasterio, matplotlib, Git, Linux, and Jupyter.
+Python, Bash, SQL, C++, PyTorch, TensorFlow, scikit-learn, pandas, NumPy, OpenCV, Git, Linux, Docker, pytest, and HPC.
 
 ## Current focus
 
-I’m currently working on projects involving vessel detection in acoustic recordings, and computer vision tools for wildlife research.
+I'm currently developing Python tools for marine researchers, including an acoustic vessel-detection pipeline and computer vision workflows for processing large-scale beluga imagery.
+
+More broadly, I'm interested in building reliable and reproducible software that makes scientific data and methods easier for researchers to use. I'm also looking to apply my physics and software background more directly to energy, particularly nuclear and other low-carbon energy technologies.
 
 ## Connect
 
-Feel free to reach out  at palmerio.jeremy@gmail.com if you’re working on climate, ecology, geospatial data, or applied machine learning.
-
-<!---
-jerbeario/jerbeario is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to reach out at **palmerio.jeremy@gmail.com** if you're working on scientific software, research infrastructure, energy, environmental science, or applied machine learning.
